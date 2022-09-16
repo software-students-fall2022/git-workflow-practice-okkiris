@@ -4,4 +4,5 @@
 ## What I find interesting in this article:<br/>
 This article talks about the basic conditions for software engineering. The author clarifies his own experience as how he becomes a software engineer and shares his story with readers. He structures in a logical progression where each section motivates or introduces the next one. By doing this, he makes the learning of software engineering intersting. <br/>
 
+# Comment <br/>
 This author's story is very inspiring! Thank you for sharing this with us! --From Wenni Fan
